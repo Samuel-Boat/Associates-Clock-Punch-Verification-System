@@ -21,7 +21,6 @@ int main(){
     managements.emplace_back("Rosana Coach", 1582);
     associates.emplace_back("John Doe", 1234);
     associates.emplace_back("Jane Smith", 5678);
-    //AssociateFunction(associates, "Alice", 4321);
     
     do {cout <<"\n------My Walmart Menu------\n";  
         cout <<"1.Clock In\n";
